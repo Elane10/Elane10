@@ -8,7 +8,8 @@
 
 <h2 align="left">About me</h2>
 <p>Transição para Desenvolvimento Front-End</p>
-<p>Após 8 anos de experiência na area de Química, estou em trancisão de carreira para area da Tecnologia, onde recentemente descobri minha paixoa pelo desenvolvimento Front-End.</p>
+<p>Após 8 anos de experiência na area de Química, estou em trancisão de carreira para area da Tecnologia, 
+onde recentemente descobri minha paixoa pelo desenvolvimento Front-End.</p>
 
 ###
 
