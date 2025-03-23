@@ -13,7 +13,7 @@ onde recentemente descobri minha paixoa pelo desenvolvimento Front-End.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Frontend<br></p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Front-end<br></p>
 
 ###
 
