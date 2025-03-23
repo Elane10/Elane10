@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elane and I'm a estudante</p>
+<p align="left">My name is Elane </p>
 
 ###
 
