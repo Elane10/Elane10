@@ -11,9 +11,6 @@ Olá! Me chamo Elane Alves e estou em transição de carreira para a área de De
 
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na FAM e tenho me dedicado diariamente ao estudo e prática com HTML5, CSS3, JavaScript, React, lógica de programação e estrutura de dados.
 
-Venho desenvolvendo projetos práticos como landing pages, calculadora de IMC, to-do list, jogo da tabuada e páginas interativas, com foco em acessibilidade, responsividade e boas práticas de código.
-
-Estou em busca da minha primeira oportunidade como desenvolvedora front-end júnior ou estagiária, onde possa crescer com o time, contribuir com projetos reais e continuar aprendendo com profissionais experientes.
 
 ###
 
