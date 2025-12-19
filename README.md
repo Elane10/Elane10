@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Me chamo Elane Alves, atualmete curo Análise e Desenvolvimento de Sistema na FAM - Faculdade das Américas.</p>
+<p align="left">Me chamo Elane Alves, atualmete curso Análise e Desenvolvimento de Sistema na FAM - Faculdade das Américas.</p>
 
 
 ###
