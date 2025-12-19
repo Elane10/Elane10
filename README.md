@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Elane Alves. Atualmente curos Analise e Desenvolvimento de Sistema na FAM - Facildade das Américas</p>
+<p align="left">Me chamo Elane Alves. Atualmente curos Análise e Desenvolvimento de Sistema na FAM - Faculdade das Américas</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning JavaScript<br>
+<p align="left">✨ Creating bugs since 2025<br>
 
 ###
 
