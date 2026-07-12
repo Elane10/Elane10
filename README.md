@@ -3,8 +3,10 @@
 Desenvolvedora Front end
 
 ---
+Resumo
 
-## Competências principais
+Estudante de Analise e Desenvolvimento de Sistema, com foco em desenvolvimemto Front-end em projetos pessoais. Possuo Certificação AWS Practitioner, o que reforça minha base de computação em nuvem.
+
 
 **Linguagens:**  
 JavaScript, TypeScript
