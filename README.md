@@ -1,40 +1,42 @@
+# Elane Alves
 
-<h1 align="left">Hey 👋 What's up?</h1>
+Desenvolvedora Front end
 
-###
+---
 
-<p align="left">Me chamo Elane Alves, atualmete curso Análise e Desenvolvimento de Sistema na FAM - Faculdade das Américas.</p>
+## Competências principais
+
+**Linguagens & Plataformas:**  
+JavaScript, TypeScript
+
+**Frameworks:**  
+React
+
+---
+
+## 🏆 Formação & Certificações
+
+### Formação Acadêmica
+- **Analise e Desenvolvimento de Sistemas** — FAM- Faculdade das Américas  
 
 
-###
+### Certificações
+- **AWS Cloud Practitioner (CLF-C02)**  
 
-<p align="left">✨ Creating bugs since 2025<br>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🔧 Ferramentas e Tecnologias
 
-###
+**Linguagens**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
- 
-</div>
 
-###
+
+## 📫 Contato
+- [LinkedIn](https://br.linkedin.com/in/elane)  
+- [GitHub](https://github.com/elane10)  
 
 
 
