@@ -35,8 +35,8 @@ React
 
 
 ## 📫 Contato
-- [LinkedIn](https://br.linkedin.com/in/elane)  
-- [GitHub](https://github.com/elane10)  
+- [LinkedIn](https://www.linkedin.com/in/elane-alves)  
+- [GitHub](https://githu)  
 
 
 
