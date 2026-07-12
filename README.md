@@ -6,7 +6,7 @@ Desenvolvedora Front end
 
 ## Competências principais
 
-**Linguagens & Plataformas:**  
+**Linguagens:**  
 JavaScript, TypeScript
 
 **Frameworks:**  
