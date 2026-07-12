@@ -3,7 +3,7 @@
 
 # Elane Alves
 
-Desenvolvedora Front end
+Desenvolvedora Front-end
 
 ---
 Resumo
