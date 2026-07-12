@@ -5,7 +5,7 @@ Desenvolvedora Front end
 ---
 Resumo
 
-Estudante de Analise e Desenvolvimento de Sistema, com foco em desenvolvimemto Front-end em projetos pessoais. Possuo Certificação AWS Practitioner, o que reforça minha base de computação em nuvem.
+Estudante de Analise e Desenvolvimento de Sistemas, com foco em desenvolvimemto Front-end em projetos pessoais. Possuo Certificação AWS Practitioner, o que reforça minha base de computação em nuvem.
 
 
 **Linguagens:**  
