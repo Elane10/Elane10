@@ -3,7 +3,9 @@
 
 # Elane Alves
 
-Desenvolvedora Front-end
+Desenvolvedora de software 
+
+
 
 ---
 Resumo
@@ -12,11 +14,11 @@ Estudante de Analise e Desenvolvimento de Sistemas, com foco em desenvolvimemto 
 
 
 **Linguagens:**  
-JavaScript, TypeScript
+JavaScript, TypeScript,  Java
 
 **Frameworks:**  
 React
-
+Spring Boot
 ---
 
 ## 🏆 Formação & Certificações
